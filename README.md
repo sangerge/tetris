@@ -1,5 +1,5 @@
 # 世嘉MD控制台俄罗斯方块
-genesis game console tetris
+genesis game - console tetris
 
 代码都是自己写的，写的比较乱，没有重构；
 
@@ -9,4 +9,13 @@ genesis game console tetris
 
 https://www.bilibili.com/video/av82697430#reply2249029041
 
-有兴趣的朋友可以下载参考一下
+##开发环境：
+
+SGDK
+
+##SGDK使用教程：
+
+https://blog.csdn.net/qq272508839/category_9528531.html
+
+
+有兴趣的朋友可以参考一下
