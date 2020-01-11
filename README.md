@@ -11,7 +11,7 @@ https://www.bilibili.com/video/av82697430#reply2249029041
 
 ##开发环境：
 
-SGDK
+VSCode + SGDK
 
 ##SGDK使用教程：
 
