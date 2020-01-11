@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Tetris",
+            "includePath": [
+                "${GDK_WIN}/inc"
+            ]
+        }
+    ],
+    "version": 4
+}

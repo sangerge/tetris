@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Tetris",
+            "type": "shell",
+            "command": "%GDK_WIN%/bin/make",
+            "args": [
+                "-f",
+                "%GDK_WIN%/makefile.gen"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
