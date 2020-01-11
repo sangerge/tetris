@@ -7,8 +7,7 @@ genesis game - console tetris
 
 演示视频：
 
-https://www.bilibili.com/video/av82697430#reply2249029041
-
+https://www.bilibili.com/video/av82697430
 ##开发环境：
 
 VSCode + SGDK
